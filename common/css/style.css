@@ -89,7 +89,14 @@ h6 { font-size: 12px; }
 #silver-story .content_row.row4 .view:hover { color: #007bc4; }
 #silver-story .content_row.row4 img, #silver-story .content_row.row6 img { display: none; }
 
-#silver-story .content_row.row5 { margin-top: 37px; margin-bottom: 45px; min-height: 702px; background-size: cover; background-repeat: no-repeat; }
+#silver-story .content_row.row5 {
+    margin-top: 37px;
+    margin-bottom: 45px;
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
 #silver-story .content_row.row5 .content { padding: 15px 15px 15px 50px; max-width: 426px; position: absolute; right: 75px; bottom: 65px; background: rgba(0,0,0,0.4); }
 #silver-story .content_row.row5 h4 { font-size: 40px; line-height: 45.9px; color: #fff; font-family: 'freighttext_proSBdIt'; }
 #silver-story .content_row.row5 .content:before { content: "“"; position: absolute; left: 25px; top: 7px; font-size: 40px; color: #fff; font-family: 'freighttext_proSBdIt'; }
