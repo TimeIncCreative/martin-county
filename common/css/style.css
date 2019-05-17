@@ -44,10 +44,22 @@ h6 { font-size: 12px; }
 
 #myVideo { bottom: 0; width: 100%; z-index: -1; }
 
+.content.article, .content.gallery, .content.recipe {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.container-full-width {
+    padding: 0px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+.container-full-width {
+    max-width: 100%;
+}
 #silver-story .content_row { width: 100%; position: relative; }
 #silver-story p { margin-bottom: 27px; font-size: 20px; font-weight: 400; line-height: 28px; color: #000000; font-family: 'freightdisp_probook'; }
 #silver-story p a { color: #007bc4; font-family: 'freighttext_probook_italic'; }
-#silver-story p a:hover { text-decoration: underline; }
+#silver-story p a:hover { text-decoration: none; }
 #silver-story p em { font-family: 'freighttext_probook_italic'; font-style: normal; }
 
 /* silver-story */
