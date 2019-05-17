@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'freighttextw01-semiboldRg';
+    src: url('freight_text_w01_semibold-webfont.woff2') format('woff2'),
+         url('freight_text_w01_semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'freightdisp_probold';
+    src: url('freightdispprobold-regular-webfont.woff2') format('woff2'),
+         url('freightdispprobold-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'freighttext_proSBdIt';
+    src: url('freighttextprosemibold-italic-webfont.woff2') format('woff2'),
+         url('freighttextprosemibold-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'freightdisp_probook';
+    src: url('freightdispprobook-regular-webfont.woff2') format('woff2'),
+         url('freightdispprobook-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'freighttext_proSBdIt';
+    src: url('freighttextprosemibold-italic-webfont.woff2') format('woff2'),
+         url('freighttextprosemibold-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'freighttext_probook_italic';
+    src: url('freighttextprobook-italic-webfont.woff2') format('woff2'),
+         url('freighttextprobook-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
