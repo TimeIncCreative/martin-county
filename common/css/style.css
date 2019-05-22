@@ -119,5 +119,5 @@ h6 { font-size: 12px; }
 #silver-story .content_row.row6 .box2 { width: 50%; float: left; }
 #silver-story .content_row.row6 { }
 
-.fancybox-caption__body { color: #ffffff; font-size: 16px; font-family: 'freighttextw01-semiboldRg'; }
+.fancybox-caption__body { color: #ffffff; font-size: 16px; font-family: 'freighttextw01-semiboldRg'; display: none}
 .fancybox-button.fancybox-button--play, .fancybox-button.fancybox-button--zoom, .fancybox-button.fancybox-button--thumbs { display: none !important; }
