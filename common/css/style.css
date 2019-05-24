@@ -65,7 +65,7 @@ h6 { font-size: 12px; }
 /* silver-story */
 #silver-story { padding-bottom: 15px; max-width: 100%; margin: auto; position: relative; overflow: hidden; }
 #silver-story .home_banner { width: 100%; height: 70vh; overflow: hidden; background-size: cover; background-attachment: fixed; }
-#silver-story a.overlay { width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
+#silver-story a.link_overlay { width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
 
 #silver-story .content_row.row1 .wrapper { max-width: 870px; }
 #silver-story h1 { padding: 44px 20px 5px; margin-top: -79px; text-align: center; font-size: 45px; font-weight: 400; color: #000000; line-height: 53px; font-family: 'freightdisp_probold'; background: #fff; }
